@@ -38,3 +38,13 @@ Welcome to **Synthex.AI** – a powerful AI-powered web application that combine
 This project uses **Clerk** for secure user authentication and stores user-specific image/text creations.
 
 
+⚙️ Run Locally
+# Start the client
+cd client
+npm run dev
+
+# Start the server
+cd server
+npm start
+
+
