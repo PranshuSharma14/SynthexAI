@@ -48,6 +48,6 @@ npm run dev
 # Start the server
 cd server
 
-npm start
+npm start server
 
 
