@@ -42,10 +42,12 @@ This project uses **Clerk** for secure user authentication and stores user-speci
 ⚙️ Run Locally
 # Start the client
 cd client
+
 npm run dev
 
 # Start the server
 cd server
+
 npm start
 
 
