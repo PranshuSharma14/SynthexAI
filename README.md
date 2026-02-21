@@ -5,15 +5,16 @@ It enables users to generate, edit, and enhance images and text content using st
 > ⚡ Built with React, Node.js, PostgreSQL, Gemini, OpenAI, Cloudinary, and ClickDrop.
 
 
-**🚀 What is Synthex.AI?**
+## 🚀 What is Synthex.AI?
 
-Synthex.AI is a multi-modal Generative AI platform that allows users to:
- 1.Generate AI images from text prompts
- 2.Edit images using background removal and object inpainting
- 3.Generate and improve text content such as resumes, titles, and articles
- 4.Securely store AI-generated content per user
+**Synthex.AI** is a **multi-modal Generative AI platform** that allows users to:
 
-This project demonstrates real-world usage of LLMs and generative vision models integrated into a production-ready SaaS architecture.
+1. **Generate AI images from text prompts**
+2. **Edit images** using background removal and object inpainting
+3. **Generate and improve text content** such as resumes, titles, and articles
+4. **Securely store AI-generated content per user**
+
+This project demonstrates **real-world usage of Large Language Models (LLMs) and generative vision models**, integrated into a **production-ready SaaS architecture**.
 
 ---
 
