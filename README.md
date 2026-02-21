@@ -1,8 +1,19 @@
 # 🧠 Synthex.AI – Your All-in-One AI Toolbox
 
-Welcome to **Synthex.AI** – a powerful AI-powered web application that combines multiple tools into a single seamless platform. Whether you're generating images, editing them, or working with text content like resumes or articles, SynthexAI has you covered with just a few clicks.
-
+Synthex.AI is a full-stack Generative AI–powered web application that brings together multiple AI tools into a single, seamless platform.
+It enables users to generate, edit, and enhance images and text content using state-of-the-art AI models — all with secure authentication and user-specific storage.
 > ⚡ Built with React, Node.js, PostgreSQL, Gemini, OpenAI, Cloudinary, and ClickDrop.
+
+
+**🚀 What is Synthex.AI?**
+
+Synthex.AI is a multi-modal Generative AI platform that allows users to:
+ 1.Generate AI images from text prompts
+ 2.Edit images using background removal and object inpainting
+ 3.Generate and improve text content such as resumes, titles, and articles
+ 4.Securely store AI-generated content per user
+
+This project demonstrates real-world usage of LLMs and generative vision models integrated into a production-ready SaaS architecture.
 
 ---
 
